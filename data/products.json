@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Laptop Gamer",
+        "description": "Laptop de alta gama para juegos",
+        "price": 1500,
+        "thumbnail": "urlImagenLaptop",
+        "code": "LAP001",
+        "stock": 20
+    },
+    {
+        "id": 2,
+        "title": "Mouse Inalámbrico",
+        "description": "Mouse ergonómico y ligero",
+        "price": 25,
+        "thumbnail": "urlImagenMouse",
+        "code": "MOU002",
+        "stock": 50
+    },
+    {
+        "id": 3,
+        "title": "Teclado Mecánico",
+        "description": "Teclado mecánico con retroiluminación",
+        "price": 75,
+        "thumbnail": "urlImagenTeclado",
+        "code": "TEC003",
+        "stock": 35
+    },
+    {
+        "id": 4,
+        "title": "Monitor 24 Pulgadas",
+        "description": "Monitor Full HD, 60Hz",
+        "price": 200,
+        "thumbnail": "urlImagenMonitor",
+        "code": "MON004",
+        "stock": 15
+    },
+    {
+        "id": 5,
+        "title": "Auriculares Bluetooth",
+        "description": "Auriculares con cancelación de ruido",
+        "price": 100,
+        "thumbnail": "urlImagenAuriculares",
+        "code": "AUR005",
+        "stock": 40
+    },
+    {
+        "id": 6,
+        "title": "Cámara Web HD",
+        "description": "Cámara web Full HD con micrófono",
+        "price": 50,
+        "thumbnail": "urlImagenCamara",
+        "code": "CAM006",
+        "stock": 25
+    },
+    {
+        "id": 7,
+        "title": "Micrófono USB",
+        "description": "Micrófono de estudio con conexión USB",
+        "price": 85,
+        "thumbnail": "urlImagenMicrofono",
+        "code": "MIC007",
+        "stock": 30
+    },
+    {
+        "id": 8,
+        "title": "Tableta Gráfica",
+        "description": "Tableta gráfica para diseño e ilustración",
+        "price": 120,
+        "thumbnail": "urlImagenTableta",
+        "code": "TAB008",
+        "stock": 22
+    },
+    {
+        "id": 9,
+        "title": "Silla Gamer",
+        "description": "Silla ergonómica para gaming",
+        "price": 300,
+        "thumbnail": "urlImagenSilla",
+        "code": "SIL009",
+        "stock": 10
+    },
+    {
+        "id": 10,
+        "title": "Router Inalámbrico",
+        "description": "Router Wi-Fi de alta velocidad",
+        "price": 60,
+        "thumbnail": "urlImagenRouter",
+        "code": "ROU010",
+        "stock": 20
+    }
+]
