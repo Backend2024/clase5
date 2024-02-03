@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
-const productRoutes = require('./src/productRoutes'); // Asegúrate de que las rutas se refieran correctamente al directorio src
-const cartRoutes = require('./src/cartRoutes'); // Asegúrate de que las rutas se refieran correctamente al directorio src
+const productRoutes = require('./productRoutes'); // Asegúrate de que las rutas se refieran correctamente al directorio src
+const cartRoutes = require('./cartRoutes'); // Asegúrate de que las rutas se refieran correctamente al directorio src
 
 // Middleware para parsear el cuerpo de las peticiones en formato JSON
 app.use(express.json());
